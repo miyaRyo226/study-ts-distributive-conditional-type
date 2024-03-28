@@ -1,0 +1,1 @@
+TypeScriptのConditional Typeの分配について
